@@ -23,6 +23,8 @@ function adicionar()
     
 }
 
+//Modificação somente para ter que fazer um commit no git
+
 function igual(str1, str2)
 {
     if ( str1.toUpperCase() == str2.toUpperCase())
