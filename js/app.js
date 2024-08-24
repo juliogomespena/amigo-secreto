@@ -23,7 +23,7 @@ function adicionar()
     
 }
 
-//Modificação somente para ter que fazer um commit no git
+//Modificação somente para ter que fazer uma versão pelo git
 
 function igual(str1, str2)
 {
